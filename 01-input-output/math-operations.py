@@ -1,5 +1,7 @@
-# We can use operators to do math. Here, we add 3 and 5. Try replacing the +
+# We can use operators to do math. Here, we add `a` and `b`. Try replacing the +
 # with other operators, such as -, *, or /
 
-print("Let's do some math")
-print(3 + 5)
+a = 3
+b = 5
+
+print(a + b)
