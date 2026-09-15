@@ -1,0 +1,1 @@
+Bug hunting is an activity I have planned during which students will try to identify a bug in a program. This can be done as a group with the program displayed on the projector, or individually.
