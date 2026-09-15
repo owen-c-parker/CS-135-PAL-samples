@@ -1,6 +1,6 @@
 # What would happen if line 7 was an if instead of an elif?
 
-num = float(input())
+num = float(input("Enter a number: "))
 
 if num > 0:
     print("Positive")
