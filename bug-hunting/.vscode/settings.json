@@ -1,6 +1,0 @@
-{
-  "python.analysis.typeCheckingMode": "off",
-  "python.analysis.exclude": [
-    "**/*"
-  ]
-}
