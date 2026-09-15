@@ -3,11 +3,9 @@
 # Here, we want the user to input two numbers in order to add them. We need to convert them to numbers, as
 # user input comes in the form of a string
 
-print("Enter a number")
-a_string = input()
+a_string = input("Enter a number: ")
 
-print("Enter another number")
-b_string = input()
+b_string = input("Enter another number: ")
 
 # This is the important part, we are casting strings to floats!
 a = float(a_string)
