@@ -3,6 +3,6 @@
 print("Enter a temperature in Fahrenheit")
 fahrenheit = input()
 
-celcius = (fahrenheit - 32) * (5 / 9) # The formula is correct, that's not the mistake :)
+celcius = (fahrenheit - 32) * (5 / 9)
 
-print(f"The temperature in Celcius is ${celcius} degrees")
+print(f"The temperature in Celcius is {celcius} degrees")
